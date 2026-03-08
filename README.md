@@ -448,7 +448,7 @@ Thanks to the following awesome contributors who help improve this project 💖
       <a href="https://github.com/sanzzy09">
         <img src="https://github.com/sanzzy09.png" width="80px;" style="border-radius:50%;" alt="Contributor"/>
         <br />
-        <sub><b>z4phdev</b></sub>
+        <sub><b>Sanzzy</b></sub>
       </a>
     </td>
   </tr>
