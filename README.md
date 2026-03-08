@@ -1,7 +1,7 @@
-# WhatsApp Baileys
+# NexBailey
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/IkyyExecutive/IkyyBokep/main/uploads/1770205734777_31697_1770205733762_file_821.jpg" alt="Thumbnail" />
+  <img src="https://avatars.githubusercontent.com/u/207909094?v=4 alt="Thumbnail" />
 </p>
 
 
